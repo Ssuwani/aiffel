@@ -18,7 +18,7 @@
 - Fundamental 9: **다양한 데이터 전처리 기법**
 - Fundamental 10: **🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리**
 - Fundamental 11: **사이킷런으로 구현해 보는 머신러닝**
-- Fundamental 12: [**파이썬으로 이미지 파일 다루기**](./fundamentals/12_파이썬으로로_이미지_파일_다루기/README.md)
+- Fundamental 12: [**파이썬으로 이미지 파일 다루기**](./fundamentals/F12/README.md)
 
 **Explorations**
 
