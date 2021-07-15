@@ -22,5 +22,6 @@
 
 **Explorations**
 
-- Exploration 1: **인공지능과 가위바위보 하기**, 컴퓨터랑 가위바위보 하기!!?
+- Exploration 1: **인공지능과 가위바위보 하기**
+- Exploration 2: [**Iris의 세 가지 품종, 분류해볼 수 있겠어요?**](explorations/E2/sklearn-toy-dataset-classifer.ipynb)
 
