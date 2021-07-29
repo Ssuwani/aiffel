@@ -32,3 +32,5 @@
 - Exploration 1: [**인공지능과 가위바위보 하기**](./explorations/E1/rock-scissor-paper.ipynb)
 - Exploration 2: [**Iris의 세 가지 품종, 분류해볼 수 있겠어요?**](explorations/E2/sklearn-toy-dataset-classifer.ipynb)
 - Exploration 3: [**카메라 스티커앱 만들기 첫걸음**](explorations/E3/camera_sticker.ipynb)
+- Exploration 4: [**나만의 작곡가 만들기**](explorations/E4/Lyricist.ipynb))
+
