@@ -34,4 +34,5 @@
 - Exploration 3: [**카메라 스티커앱 만들기 첫걸음**](explorations/E3/camera_sticker.ipynb)
 - Exploration 4: [**나만의 작곡가 만들기**](explorations/E4/Lyricist.ipynb)
 - Exploration 5: [**나랑 닮은 연예인은 누구?**](explorations/E5/celebrity_similarity.ipynb)
+- Exploration 6: [**나의 첫 번째 캐글 경진대회, 무작정 따라해보기**](explorations/E6/House-Price-Prediction.ipynb)
 
