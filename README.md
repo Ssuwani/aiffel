@@ -35,4 +35,5 @@
 - Exploration 4: [**나만의 작곡가 만들기**](explorations/E4/Lyricist.ipynb)
 - Exploration 5: [**나랑 닮은 연예인은 누구?**](explorations/E5/celebrity_similarity.ipynb)
 - Exploration 6: [**나의 첫 번째 캐글 경진대회, 무작정 따라해보기**](explorations/E6/House-Price-Prediction.ipynb)
+- Exploration 7: [**영화리뷰 텍스트 감성분석하기**](explorations/E7/naver_movie.ipynb)
 
