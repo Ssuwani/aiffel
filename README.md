@@ -36,4 +36,7 @@
 - Exploration 5: [**나랑 닮은 연예인은 누구?**](explorations/E5/celebrity_similarity.ipynb)
 - Exploration 6: [**나의 첫 번째 캐글 경진대회, 무작정 따라해보기**](explorations/E6/House-Price-Prediction.ipynb)
 - Exploration 7: [**영화리뷰 텍스트 감성분석하기**](explorations/E7/naver_movie.ipynb)
+- Exploration 9: [**영화 추천 시스템**](explorations/E9/movie_recommend.ipynb)
+
+
 
