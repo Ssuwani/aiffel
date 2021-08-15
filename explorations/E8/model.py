@@ -49,3 +49,4 @@ class DeepLabModel(object):
 
         seg_map = batch_seg_map[0]
         return cv2.cvtColor(img_input, cv2.COLOR_RGB2BGR), seg_map
+
