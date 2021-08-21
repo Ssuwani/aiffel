@@ -30,14 +30,24 @@
 **Explorations**
 
 - Exploration 1: [**인공지능과 가위바위보 하기**](./explorations/E1/rock-scissor-paper.ipynb)
+
 - Exploration 2: [**Iris의 세 가지 품종, 분류해볼 수 있겠어요?**](explorations/E2/sklearn-toy-dataset-classifer.ipynb)
+
 - Exploration 3: [**카메라 스티커앱 만들기 첫걸음**](explorations/E3/camera_sticker.ipynb)
+
 - Exploration 4: [**나만의 작곡가 만들기**](explorations/E4/Lyricist.ipynb)
+
 - Exploration 5: [**나랑 닮은 연예인은 누구?**](explorations/E5/celebrity_similarity.ipynb)
+
 - Exploration 6: [**나의 첫 번째 캐글 경진대회, 무작정 따라해보기**](explorations/E6/House-Price-Prediction.ipynb)
+
 - Exploration 7: [**영화리뷰 텍스트 감성분석하기**](explorations/E7/naver_movie.ipynb)
+
 - Exploration 8: [**인물사진 만들기**](explorations/E8/portrait.ipynb)
+
 - Exploration 9: [**영화 추천 시스템**](explorations/E9/movie_recommend.ipynb)
 
+- Exploration 9: [**10.뉴스 요약봇 만들기**](explorations/E10/news_summarization.ipynb)
 
+  
 
