@@ -49,5 +49,7 @@
 
 - Exploration 9: [**10.뉴스 요약봇 만들기**](explorations/E10/news_summarization.ipynb)
 
+- Exploration 9: [**11.폐렴아 기다려라!**](explorations/E11/diagnose_pneumonia.ipynb)
+
   
 
