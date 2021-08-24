@@ -47,9 +47,11 @@
 
 - Exploration 9: [**영화 추천 시스템**](explorations/E9/movie_recommend.ipynb)
 
-- Exploration 9: [**10.뉴스 요약봇 만들기**](explorations/E10/news_summarization.ipynb)
+- Exploration 10: [**10.뉴스 요약봇 만들기**](explorations/E10/news_summarization.ipynb)
 
-- Exploration 9: [**11.폐렴아 기다려라!**](explorations/E11/diagnose_pneumonia.ipynb)
+- Exploration 11: [**11.폐렴아 기다려라!**](explorations/E11/diagnose_pneumonia.ipynb)
+
+- Exploration 12: [**12.다음에 볼 영화 예측하기**](explorations/E12/predict_next_movie.ipynb)
 
   
 
