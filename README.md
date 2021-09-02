@@ -55,7 +55,7 @@
 
 - Exploration 13: [**13.이미지 생성하기 CIFAR10**](explorations/E13/image_generator.ipynb)
 
-- Exploration 13: [**14.주식 가격 예측하기**](explorations/E14/predict_stock.ipynb)
+- Exploration 14: [**14.주식 가격 예측하기**](explorations/E14/predict_stock.ipynb)
 
   
 
