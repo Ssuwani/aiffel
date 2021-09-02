@@ -53,5 +53,7 @@
 
 - Exploration 12: [**12.다음에 볼 영화 예측하기**](explorations/E12/predict_next_movie.ipynb)
 
+- Exploration 12: [**13.이미지 생성하기 CIFAR10**](explorations/E13/ImageGenerator.ipynb)
+
   
 
