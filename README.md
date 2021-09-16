@@ -45,4 +45,5 @@
 - Exploration 14: [**14.주식 가격 예측하기**](explorations/E14/predict_stock.ipynb)
 - Exploration 15: [**15. 트랜스포머로 만드는 대화형 챗봇**](explorations/E15/transformer_chatbot.ipynb)
 - Exploration 16: [**16. 흐린 사진을 선명하게**](explorations/E16/blur-to-clear.ipynb)
+- Exploration 17: [**17. 인간보다 퀴즈를 잘푸는 인공지능**](explorations/E17/question_solver.ipynb)
 
