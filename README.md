@@ -49,4 +49,3 @@
 - Exploration 18: [**18. 문자를 읽을 수 있는 딥러닝**](explorations/E18/OCR.ipynb)
 - Exploration 19: [**\19. 난 스케치를 할 테니 너는 채색을 하거라**](explorations/E19/pix2pix.ipynb)
 
- 
