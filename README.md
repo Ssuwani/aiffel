@@ -55,4 +55,5 @@
 
 - GoingDeeper 2: [없다면 어떻게 될까? (ResNet Ablation Study)](goingdeeper/G2/Resnet_vs_Plain.ipynb)
 - GoingDeeper 4: [이미지 어디까지 우려볼까? (Image Argumentaion)](goingdeeper/G4/argumentation.ipynb)
+- GoingDeeper 6: [나를 찾아줘 - Class Activation Map 만들기](goingdeeper/G6/cam-vs-gradcam.ipynb)
 
