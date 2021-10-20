@@ -57,4 +57,5 @@
 - GoingDeeper 4: [이미지 어디까지 우려볼까? (Image Argumentaion)](goingdeeper/G4/argumentation.ipynb)
 - GoingDeeper 6: [나를 찾아줘 - Class Activation Map 만들기](goingdeeper/G6/cam-vs-gradcam.ipynb)
 - GoingDeeper 8: [GO/STOP! - Object Detection 시스템 만들기](goingdeeper/G8/auto_drive_system.ipynb)
+- GoingDeeper 10: [도로 영역을 찾자! - 세그멘테이션 모델 만들기](goingdeeper/G10/road_segmentation.ipynb)
 
