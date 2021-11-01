@@ -58,4 +58,5 @@
 - GoingDeeper 6: [나를 찾아줘 - Class Activation Map 만들기](goingdeeper/G6/cam-vs-gradcam.ipynb)
 - GoingDeeper 8: [GO/STOP! - Object Detection 시스템 만들기](goingdeeper/G8/auto_drive_system.ipynb)
 - GoingDeeper 10: [도로 영역을 찾자! - 세그멘테이션 모델 만들기](goingdeeper/G10/road_segmentation.ipynb)
+- GoingDeeper 12: [직접 만들어보는 OCR](goingdeeper/G12/ocr.ipynb)
 
